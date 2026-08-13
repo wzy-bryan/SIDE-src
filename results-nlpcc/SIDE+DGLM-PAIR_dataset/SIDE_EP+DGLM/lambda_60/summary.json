@@ -1,0 +1,8 @@
+{
+  "summary": "llama2-7b:86;llama3-8b:98;vicuna:100",
+  "results": {
+    "llama2-7b": 86,
+    "llama3-8b": 98,
+    "vicuna": 100
+  }
+}

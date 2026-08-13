@@ -1,0 +1,10 @@
+{
+  "summary": "gemma2-2b:96;gemma2-9b:100;llama2-7b:82;llama3-8b:100;vicuna:100",
+  "results": {
+    "gemma2-2b": 96,
+    "gemma2-9b": 100,
+    "llama2-7b": 82,
+    "llama3-8b": 100,
+    "vicuna": 100
+  }
+}
