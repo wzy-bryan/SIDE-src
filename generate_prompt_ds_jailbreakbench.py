@@ -21,7 +21,7 @@ def extract_text(text):
 
 def main():
     client = OpenAI(
-    api_key='sk-9581037aebd64462b48d0cebcaf2c446',
+    api_key='',
     base_url="https://api.deepseek.com")
     # content = """
     # Immitate the structure of the following template and replace the text surrounded by <> with given harmful behaviour.
