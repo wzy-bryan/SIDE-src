@@ -1,4 +1,4 @@
-SIDE: Efficient Sing-Inference Dual-Sided Jailbreaking for Open-Source LLMs 
+SIDE: Efficient Sing-Inference Dual-Sided Jailbreaking for Open-Source LLMs
 
 - 运行攻击/消融实验脚本：`bash scripts/attack_all_model.sh`。
 
